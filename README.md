@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi, I'm Dominik 👋
 
-I'm a senior software developer at [@FLYERALARM](https://www.flyeralarm.com) by day and a language tinkerer by night. I love to explore new programming languages, frameworks and systems. Currently learning how to implement a compiler on the JVM [😼 Meow programming language](https://github.com/domnikl/meow-lang).
+I'm a senior software developer at [@FLYERALARM](https://www.flyeralarm.com) by day and a language tinkerer by night. I love to explore new programming languages, frameworks and systems. Currently learning how to implement a compiler on the JVM for my [Meow programming language 😼](https://github.com/domnikl/meow-lang).
 
-Apart from that, I also love to implement [patterns](https://github.com/domnikl/DesignPatternsPHP), [algorithms and data structures](https://github.com/domnikl/algorithms-and-data-structures) just to think them through to really "get" them and share my newfound knowledge with everyone who is interested.
+Apart from that, I also love to implement [patterns](https://github.com/domnikl/DesignPatternsPHP), [algorithms and data structures](https://github.com/domnikl/algorithms-and-data-structures) just to think them through to really "get" them and share my newfound knowledge with everyone who is interested here on GitHub.
 
 👯 I’m looking to collaborate on interesting Kotlin projects if you need any help.
 
