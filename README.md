@@ -1,7 +1,5 @@
 # Hi, I'm Dominik 👋
 
-![Dominik Liebler: software developer, content creator and programming language tinkerer](https://github.com/domnikl/domnikl/raw/master/GithubHeader.png "Dominik Liebler: software developer, content creator and programming language tinkerer")
-
 I'm a senior software developer at [@FLYERALARM](https://www.flyeralarm.com) by day and a programming language tinkerer by night. I love to explore new programming languages and systems. Currently learning how to implement a compiler on the JVM for my [Meow programming language 😼](https://github.com/domnikl/meow-lang).
 
 Apart from that, I also love to implement [patterns](https://github.com/domnikl/DesignPatternsPHP), [algorithms and data structures](https://github.com/domnikl/algorithms-and-data-structures) just to think them through to really "get" them and share my newfound knowledge with everyone who is interested here on GitHub.
