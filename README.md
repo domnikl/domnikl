@@ -6,7 +6,7 @@ Apart from that, I also love to implement [patterns](https://github.com/domnikl/
 
 👯 I’m looking to collaborate on interesting Kotlin projects if you need any help.
 
-💬 Ask me about Apache Kafka and I can talk about it for hours on end 😁
+💬 Ask me about Apache Kafka and Avro and I can talk about it for hours on end 😁
 
 <a href="https://github.com/domnikl"><img src="https://img.shields.io/github/followers/domnikl.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://twitter.com/domnikl"><img src="https://img.shields.io/twitter/follow/domnikl?label=Twitter&style=social" alt="Twitter"></a>
