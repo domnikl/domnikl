@@ -5,7 +5,7 @@ Started learning how to implement a compiler on the JVM for my [Meow programming
 
 Apart from that, I also love to implement [algorithms and data structures](https://github.com/domnikl/algorithms-and-data-structures) and slowly reaching 100% on the Kotlin and Java tracks on [exercism.io](https://exercism.io).
 
-💬 Ask me about Apache Kafka and I can talk about it for hours on end 😁
+💬 Ask me about Apache Kafka and Avro and I can talk about it for hours on end 😁
 
 - 🔭 I’m currently working on [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 - 🌱 I’m currently learning React & TypeScript
