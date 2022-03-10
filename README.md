@@ -1,7 +1,8 @@
 # Hi, I'm Dominik 👋
 
 - 🔭 I’m currently working on [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-- 🌱 I’m currently learning React & TypeScript
+- 🌅 Data engineer by day, frontend dev by night 🌃
+- 🌱 I’m currently learning Spark, React & TypeScript
 - 📫 How to reach me: [Twitter](https://twitter.com/domnikl)
 - 👨‍💻 Pronouns: he/him
 
