@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 - 🌅 Data engineer by day, frontend dev by night 🌃
-- 🌱 I’m currently learning Spark, React & TypeScript
+- 🌱 I’m currently learning Spark and ML
 - 📫 How to reach me: [Twitter](https://twitter.com/domnikl)
 - 👨‍💻 Pronouns: he/him
 
