@@ -17,7 +17,7 @@ I live in Germany 🏫. I started as a fullstack developer in 2003 👴 I am cur
 
 - [YAZIO Engineering Medium](https://medium.com/yazio-engineering/integrating-confluent-schema-registry-with-apache-spark-applications-d3426e33bc51) (2022-)
 - [dev.to](https://dev.to/domnikl) (2019-)
-- [DesignPatternsPHP](https://github.com/DesignPatternsPHP) (2011-)
+- [DesignPatternsPHP](https://github.com/DesignPatternsPHP) (2011-2022)
 - Mayflower [company blog](https://blog.mayflower.de/author/Dominik-Liebler) (2011-2013)
 
 ## ⚡ Technologies
