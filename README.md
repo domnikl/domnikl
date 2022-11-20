@@ -10,7 +10,7 @@ I live in Germany 🏫. I started as a fullstack developer in 2003 👴 I am cur
 - 🔭 I’m currently mainly working on [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 - 🌅 Data engineer by day, frontend dev by night 🌃
 - 🌱 I’m currently learning Spark and ML
-- 📫 How to reach me: [Twitter](https://twitter.com/domnikl)
+- 📫 How to reach me: [Mastodon](https://fosstodon.org/@domnikl)/[Twitter](https://twitter.com/domnikl)
 - 👨‍💻 Pronouns: he/him
 
 ## 👯 Communities
