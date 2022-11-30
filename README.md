@@ -8,8 +8,8 @@
 I live in Germany 🏫. I started as a fullstack developer in 2003 👴 I am currently working as a Data engineer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">YAZIO</a>👨‍💻. 
 
 - 🔭 I’m currently mainly working on [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-- 🌅 Data engineer by day, frontend dev by night 🌃
-- 🌱 I’m currently learning Spark and ML
+- 🌅 Data engineer by day, virtual pilot by night 🌃
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: [Mastodon](https://fosstodon.org/@domnikl)/[Twitter](https://twitter.com/domnikl)
 - 👨‍💻 Pronouns: he/him
 
