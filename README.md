@@ -7,7 +7,7 @@
 
 I live in Germany 🏫, started as a Full Stack Developer in 2003 👴 and I am currently working as a Data engineer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">YAZIO</a>👨‍💻. 
 
-- 🔭 I’m currently mainly working on [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+- 🔭 I’m currently mainly working on [conftube](https://github.com/conftube/conftube)
 - 🌅 Data engineer by day, virtual pilot by night 🌃
 - 🌱 I’m currently learning Rust 🦀
 - 📫 How to reach me: [Twitter](https://twitter.com/domnikl)
