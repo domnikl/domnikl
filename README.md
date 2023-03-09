@@ -30,7 +30,6 @@ Talk to me about
 - container orchestration using ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logoColor=white&logo=kubernetes) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logoColor=white&logo=docker)
 - Backend development using ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat&logoColor=white&logo=rust) ![Java](https://img.shields.io/badge/-Java-DC382D?style=flat&logoColor=white&logo=java) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logoColor=white&logo=php) ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logoColor=white&logo=nodedotjs)
 - Solving Data structure and algorithm questions in ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logoColor=white&logo=kotlin) ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
-- Machine learning with ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f005?style=flat&logoColor=white&logo=tensorflow) ![scikit-learn](https://img.shields.io/badge/-scikit-f7931e?style=flat&logoColor=white&logo=scikitlearn)
 - Frontend development using ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logoColor=white&logo=typescript) ![React](https://img.shields.io/badge/-React-61dafb?style=flat&logoColor=white&logo=react)
 
 ## 📈 Github Stats
