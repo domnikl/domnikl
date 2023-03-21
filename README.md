@@ -18,9 +18,3 @@ I live in Germany 🏫, started working as a Full Stack Developer in 2003 👴 a
 - [dev.to](https://dev.to/domnikl) (2019-)
 - [DesignPatternsPHP](https://github.com/DesignPatternsPHP) (2011-2022)
 - Mayflower [blog](https://blog.mayflower.de/author/Dominik-Liebler) (2011-2013)
-
-## 📈 Github Stats
-
-<a href="https://github.com/domnikl">
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domnikl&hide=html,TSQL,Ruby,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-</a>
