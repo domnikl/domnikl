@@ -14,6 +14,7 @@ I live in Germany 🏫, started working as a Full Stack Developer in 2003 👴 a
 
 ## 👯 Communities
 
+- [Better Programming](https://betterprogramming.pub) (2023-)
 - [YAZIO Engineering Medium](https://medium.com/yazio-engineering/) (2022-)
 - [dev.to](https://dev.to/domnikl) (2019-)
 - [DesignPatternsPHP](https://github.com/DesignPatternsPHP) (2011-2022)
