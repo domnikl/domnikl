@@ -6,7 +6,6 @@
 I live in Germany 🏫, started working as a Full Stack Developer in 2003 👴 and I am currently working as a Senior Data Engineer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">YAZIO</a>👨‍💻.
 
 - 🔭 I’m currently working on [conftube](https://github.com/conftube/conftube)
-- 🌱 I’m learning Rust 🦀
 - 💻 mainly working with Kotlin and Python in my day job
 - I have a keen interest in aviation 🛫, football 🏈, and 3D printing
 - 📫 How to reach me: [Twitter](https://twitter.com/domnikl)
