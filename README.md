@@ -8,8 +8,6 @@ I live in Germany 🏫, started working as a Full Stack Developer in 2003 👴 a
 - 🔭 I’m currently working on [conftube](https://github.com/conftube/conftube)
 - 💻 mainly working with Kotlin and Python in my day job
 - I have a keen interest in aviation 🛫, football 🏈, and 3D printing
-- 📫 How to reach me: [Twitter](https://twitter.com/domnikl)
-- also I am an [introvert](https://www.allaboutintroverts.com/blog/10-things-introverts-are-best-at-doing) and I love it 🖤
 
 ## 👯 Communities
 
