@@ -6,8 +6,8 @@
 I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴 and I am currently working as a Data Engineer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">YAZIO</a>👨‍💻.
 
 - 🔭 I’m currently working on [grooveguessr](https://github.com/domnikl/grooveguessr) and [flysimroutes](https://flysimroutes.com)
-- 🦀 love Rust and Go
-- I have a keen interest in aviation 🛫, american football 🏈, and 3D printing 🦄
+- love 🧙 Elixir, 🦀 Rust, and Go
+- I have a keen interest in aviation 🛫, American Football 🏈, and 3D printing 🦄
 
 ## 👯 Communities
 
