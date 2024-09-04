@@ -20,9 +20,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2327923463) in [trinodb/trino](https://github.com/trinodb/trino)
-2. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2316894331) in [trinodb/trino](https://github.com/trinodb/trino)
-3. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2312035898) in [trinodb/trino](https://github.com/trinodb/trino)
-4. 💪 Opened PR [#23066](https://github.com/trinodb/trino/pull/23066) in [trinodb/trino](https://github.com/trinodb/trino)
-5. ❗ Opened issue [#23065](https://github.com/trinodb/trino/issues/23065) in [trinodb/trino](https://github.com/trinodb/trino)
+1. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2327930200) in [trinodb/trino](https://github.com/trinodb/trino)
+2. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2327923463) in [trinodb/trino](https://github.com/trinodb/trino)
+3. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2316894331) in [trinodb/trino](https://github.com/trinodb/trino)
+4. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2312035898) in [trinodb/trino](https://github.com/trinodb/trino)
+5. 💪 Opened PR [#23066](https://github.com/trinodb/trino/pull/23066) in [trinodb/trino](https://github.com/trinodb/trino)
 <!--END_SECTION:activity-->
