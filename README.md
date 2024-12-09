@@ -20,9 +20,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/nooberfsh/prusto/issues/50#issuecomment-2508990049) in [nooberfsh/prusto](https://github.com/nooberfsh/prusto)
-2. ❌ Closed PR [#3](https://github.com/domnikl/advent-of-code/pull/3) in [domnikl/advent-of-code](https://github.com/domnikl/advent-of-code)
-3. 🗣 Commented on [#438](https://github.com/sfu-db/connector-x/issues/438#issuecomment-2333302185) in [sfu-db/connector-x](https://github.com/sfu-db/connector-x)
+1. 💪 Opened PR [#716](https://github.com/sfu-db/connector-x/pull/716) in [sfu-db/connector-x](https://github.com/sfu-db/connector-x)
+2. 🗣 Commented on [#50](https://github.com/nooberfsh/prusto/issues/50#issuecomment-2508990049) in [nooberfsh/prusto](https://github.com/nooberfsh/prusto)
+3. ❌ Closed PR [#3](https://github.com/domnikl/advent-of-code/pull/3) in [domnikl/advent-of-code](https://github.com/domnikl/advent-of-code)
 4. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2327930200) in [trinodb/trino](https://github.com/trinodb/trino)
 5. 🗣 Commented on [#23066](https://github.com/trinodb/trino/pull/23066#issuecomment-2327923463) in [trinodb/trino](https://github.com/trinodb/trino)
 <!--END_SECTION:activity-->
