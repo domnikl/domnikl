@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/domnikl) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/dominik-liebler-a32655205/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liebler.dominik@gmail.com)
 
-I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴 and I am currently working as a Data Engineer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">YAZIO</a>👨‍💻.
+I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴 and I am currently working as a Senior Internal Tooling Developer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">YAZIO</a>👨‍💻.
 
 - 🔭 I’m currently working on [grooveguessr](https://github.com/domnikl/grooveguessr) and [flysimroutes](https://flysimroutes.com)
 - love 🧙 Elixir, 🦀 Rust, and Go
