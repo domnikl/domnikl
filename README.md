@@ -20,9 +20,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#297](https://github.com/domnikl/schema-registry-gitops/pull/297) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-2. 🎉 Merged PR [#421](https://github.com/domnikl/schema-registry-gitops/pull/421) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-3. 💪 Opened PR [#716](https://github.com/sfu-db/connector-x/pull/716) in [sfu-db/connector-x](https://github.com/sfu-db/connector-x)
-4. 🗣 Commented on [#50](https://github.com/nooberfsh/prusto/issues/50#issuecomment-2508990049) in [nooberfsh/prusto](https://github.com/nooberfsh/prusto)
-5. ❌ Closed PR [#3](https://github.com/domnikl/advent-of-code/pull/3) in [domnikl/advent-of-code](https://github.com/domnikl/advent-of-code)
+1. 🚀 Published release [v1.11.0](https://github.com/domnikl/schema-registry-gitops/releases/tag/v1.11.0) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+2. 🎉 Merged PR [#297](https://github.com/domnikl/schema-registry-gitops/pull/297) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+3. 🎉 Merged PR [#421](https://github.com/domnikl/schema-registry-gitops/pull/421) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+4. 💪 Opened PR [#716](https://github.com/sfu-db/connector-x/pull/716) in [sfu-db/connector-x](https://github.com/sfu-db/connector-x)
+5. 🗣 Commented on [#50](https://github.com/nooberfsh/prusto/issues/50#issuecomment-2508990049) in [nooberfsh/prusto](https://github.com/nooberfsh/prusto)
 <!--END_SECTION:activity-->
