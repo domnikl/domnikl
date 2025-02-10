@@ -20,9 +20,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer in 2003 👴
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/domnikl/schema-registry-gitops/issues/427#issuecomment-2618036117) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-2. 🗣 Commented on [#421](https://github.com/domnikl/schema-registry-gitops/pull/421#issuecomment-2582662241) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-3. 🚀 Published release [v1.11.0](https://github.com/domnikl/schema-registry-gitops/releases/tag/v1.11.0) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+1. 🗣 Commented on [#432](https://github.com/domnikl/schema-registry-gitops/pull/432#issuecomment-2647518063) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+2. 🎉 Merged PR [#432](https://github.com/domnikl/schema-registry-gitops/pull/432) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+3. 🗣 Commented on [#427](https://github.com/domnikl/schema-registry-gitops/issues/427#issuecomment-2618036117) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 4. 🎉 Merged PR [#297](https://github.com/domnikl/schema-registry-gitops/pull/297) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 5. 🎉 Merged PR [#421](https://github.com/domnikl/schema-registry-gitops/pull/421) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 <!--END_SECTION:activity-->
