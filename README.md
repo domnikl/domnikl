@@ -19,7 +19,7 @@ I live in Germany 🏫, started my career as a Full Stack Developer as early as 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/domnikl/schema-registry-gitops/issues/427#issuecomment-2649999002) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+1. 🗣 Commented on [#454](https://github.com/domnikl/schema-registry-gitops/issues/454#issuecomment-2729451319) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 2. 🔒 Closed issue [#427](https://github.com/domnikl/schema-registry-gitops/issues/427) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 3. 🚀 Published release [v1.12.0](https://github.com/domnikl/schema-registry-gitops/releases/tag/v1.12.0) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 4. 🗣 Commented on [#432](https://github.com/domnikl/schema-registry-gitops/pull/432#issuecomment-2647518063) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
