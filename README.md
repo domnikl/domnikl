@@ -19,9 +19,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer as early as 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/axzilla/templui/issues/135#issuecomment-2849235648) in [axzilla/templui](https://github.com/axzilla/templui)
-2. ❗ Opened issue [#135](https://github.com/axzilla/templui/issues/135) in [axzilla/templui](https://github.com/axzilla/templui)
-3. 🚀 Published release [v1.12.0](https://github.com/domnikl/schema-registry-gitops/releases/tag/v1.12.0) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
-4. 🗣 Commented on [#432](https://github.com/domnikl/schema-registry-gitops/pull/432#issuecomment-2647518063) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+1. 🎉 Merged PR [#3](https://github.com/yazio/braintree-go/pull/3) in [yazio/braintree-go](https://github.com/yazio/braintree-go)
+2. 💪 Opened PR [#3](https://github.com/yazio/braintree-go/pull/3) in [yazio/braintree-go](https://github.com/yazio/braintree-go)
+3. 🗣 Commented on [#135](https://github.com/axzilla/templui/issues/135#issuecomment-2849235648) in [axzilla/templui](https://github.com/axzilla/templui)
+4. ❗ Opened issue [#135](https://github.com/axzilla/templui/issues/135) in [axzilla/templui](https://github.com/axzilla/templui)
 5. 🎉 Merged PR [#432](https://github.com/domnikl/schema-registry-gitops/pull/432) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
 <!--END_SECTION:activity-->
