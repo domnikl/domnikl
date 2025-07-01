@@ -19,7 +19,7 @@ I live in Germany 🏫, started my career as a Full Stack Developer as early as 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/yazio/braintree-go/pull/3) in [yazio/braintree-go](https://github.com/yazio/braintree-go)
+1. 🚀 Published release [v0.4.1](https://github.com/domnikl/bookkeeping/releases/tag/v0.4.1) in [domnikl/bookkeeping](https://github.com/domnikl/bookkeeping)
 2. 💪 Opened PR [#3](https://github.com/yazio/braintree-go/pull/3) in [yazio/braintree-go](https://github.com/yazio/braintree-go)
 3. 🗣 Commented on [#135](https://github.com/axzilla/templui/issues/135#issuecomment-2849235648) in [axzilla/templui](https://github.com/axzilla/templui)
 4. ❗ Opened issue [#135](https://github.com/axzilla/templui/issues/135) in [axzilla/templui](https://github.com/axzilla/templui)
