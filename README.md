@@ -20,9 +20,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer as early as 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.1](https://github.com/domnikl/bookkeeping/releases/tag/v0.5.1) in [domnikl/bookkeeping](https://github.com/domnikl/bookkeeping)
-2. 🚀 Published release [v0.5.0](https://github.com/domnikl/bookkeeping/releases/tag/v0.5.0) in [domnikl/bookkeeping](https://github.com/domnikl/bookkeeping)
-3. 🚀 Published release [v0.4.1](https://github.com/domnikl/bookkeeping/releases/tag/v0.4.1) in [domnikl/bookkeeping](https://github.com/domnikl/bookkeeping)
-4. ❗ Opened issue [#135](https://github.com/axzilla/templui/issues/135) in [axzilla/templui](https://github.com/axzilla/templui)
-5. 🎉 Merged PR [#432](https://github.com/domnikl/schema-registry-gitops/pull/432) in [domnikl/schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops)
+1. 🎉 Merged PR [#6](https://github.com/domnikl/exercism/pull/6) in [domnikl/exercism](https://github.com/domnikl/exercism)
+2. 🎉 Merged PR [#5](https://github.com/domnikl/exercism/pull/5) in [domnikl/exercism](https://github.com/domnikl/exercism)
+3. 🎉 Merged PR [#4](https://github.com/domnikl/exercism/pull/4) in [domnikl/exercism](https://github.com/domnikl/exercism)
+4. 🎉 Merged PR [#3](https://github.com/domnikl/exercism/pull/3) in [domnikl/exercism](https://github.com/domnikl/exercism)
+5. 🎉 Merged PR [#2](https://github.com/domnikl/exercism/pull/2) in [domnikl/exercism](https://github.com/domnikl/exercism)
 <!--END_SECTION:activity-->
