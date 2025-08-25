@@ -20,9 +20,9 @@ I live in Germany 🏫, started my career as a Full Stack Developer as early as 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/domnikl/exercism/pull/6) in [domnikl/exercism](https://github.com/domnikl/exercism)
-2. 🎉 Merged PR [#5](https://github.com/domnikl/exercism/pull/5) in [domnikl/exercism](https://github.com/domnikl/exercism)
-3. 🎉 Merged PR [#4](https://github.com/domnikl/exercism/pull/4) in [domnikl/exercism](https://github.com/domnikl/exercism)
-4. 🎉 Merged PR [#3](https://github.com/domnikl/exercism/pull/3) in [domnikl/exercism](https://github.com/domnikl/exercism)
-5. 🎉 Merged PR [#2](https://github.com/domnikl/exercism/pull/2) in [domnikl/exercism](https://github.com/domnikl/exercism)
+1. 🎉 Merged PR [#12](https://github.com/domnikl/exercism/pull/12) in [domnikl/exercism](https://github.com/domnikl/exercism)
+2. 🎉 Merged PR [#11](https://github.com/domnikl/exercism/pull/11) in [domnikl/exercism](https://github.com/domnikl/exercism)
+3. 🎉 Merged PR [#10](https://github.com/domnikl/exercism/pull/10) in [domnikl/exercism](https://github.com/domnikl/exercism)
+4. 🎉 Merged PR [#9](https://github.com/domnikl/exercism/pull/9) in [domnikl/exercism](https://github.com/domnikl/exercism)
+5. 🎉 Merged PR [#8](https://github.com/domnikl/exercism/pull/8) in [domnikl/exercism](https://github.com/domnikl/exercism)
 <!--END_SECTION:activity-->
