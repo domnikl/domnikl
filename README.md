@@ -20,7 +20,7 @@ I live in Germany 🏫, started my career as a Full Stack Developer as early as 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/domnikl/exercism/pull/24) in [domnikl/exercism](https://github.com/domnikl/exercism)
+1. 💪 Opened PR [#124](undefined) in [tuannvm/slack-mcp-client](https://github.com/tuannvm/slack-mcp-client)
 2. 🎉 Merged PR [#23](https://github.com/domnikl/exercism/pull/23) in [domnikl/exercism](https://github.com/domnikl/exercism)
 3. 🎉 Merged PR [#22](https://github.com/domnikl/exercism/pull/22) in [domnikl/exercism](https://github.com/domnikl/exercism)
 4. 🎉 Merged PR [#21](https://github.com/domnikl/exercism/pull/21) in [domnikl/exercism](https://github.com/domnikl/exercism)
