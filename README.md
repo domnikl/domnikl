@@ -5,8 +5,9 @@
 I live in Germany 🏫, started my career as a Full Stack Developer as early as 2003 and I am currently working as a Senior Developer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">Yazio</a>👨‍💻.
 
 - 🔭 I’m currently working on [spendable](https://github.com/domnikl/spendable) and [flysimroutes](https://flysimroutes.com)
-- love Go, Python, Kotlin and TypeScript
-- I have a keen interest in aviation 🛫, American Football 🏈, and 3D printing 🦄
+- skilled in Go, Python, Postgres, Kafka
+- avid selfhoster (Proxmox, Terraform, Ansible, K8s)
+- interested in aviation 🛫, American Football 🏈, and 3D printing 🦄
 
 ## 👯 Communities
 
