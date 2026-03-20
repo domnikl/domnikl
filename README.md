@@ -10,19 +10,19 @@ Currently working at **[Yazio](https://www.yazio.com)**, building platform tooli
 
 ## What I work with
 
-**Languages & Runtimes**
+**Languages & Runtimes**: 
 Go · Python · Rust · Elixir
 
-**Infrastructure & Platform**
+**Infrastructure & Platform**: 
 Kubernetes · ArgoCD · Helm · Terraform · Ansible · Proxmox
 
-**Observability**
+**Observability**: 
 Prometheus · Grafana · pyrra
 
-**Data**
+**Data**: 
 PostgreSQL · Apache Kafka · Redis
 
-**CI/CD**
+**CI/CD**: 
 GitHub Actions · GitLab CI/CD · Renovate
 
 ---
