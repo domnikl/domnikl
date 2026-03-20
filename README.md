@@ -1,19 +1,52 @@
-# Hey, I am Dominik 🧑‍💻
+# Hi, I'm Dominik 👋
 
-[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/domnikl) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/dominik-liebler-a32655205/)
+Senior Software Engineer with 20+ years of experience building and operating reliable infrastructure.
+I care deeply about developer experience, platform reliability, and automating everything that shouldn't be done by hand —
+from bare-metal homelab to production at scale.
 
-I live in Germany 🏫, started my career as a Full Stack Developer as early as 2003 and I am currently working as a Senior Developer at <a href="https://www.linkedin.com/company/yazio-gmbh/mycompany">Yazio</a>👨‍💻.
+Currently working at **[Yazio](https://www.yazio.com)**, building platform tooling and internal systems.
 
-- 🔭 I’m currently working on [ansible-unifi-network](ansible-unifi-network ) and [flysimroutes](https://flysimroutes.com)
-- skilled in Go, Python, Postgres, Kafka
-- avid selfhoster (Proxmox, Terraform, Ansible, K8s)
-- interested in aviation 🛫, American Football 🏈, and 3D printing 🦄
+---
 
-## 👯 Communities
+## What I work with
 
-- [Better Programming](https://betterprogramming.pub) (2023-)
-- [YAZIO Engineering](https://medium.com/yazio-engineering/) (2022-)
-- [dev.to](https://dev.to/domnikl) (2019-)
-- [Instagram (flight simulation stuff)](https://www.instagram.com/d0mnikl/)
-- [DesignPatternsPHP](https://github.com/DesignPatternsPHP) (2011-2022)
-- Mayflower [blog](https://blog.mayflower.de/author/Dominik-Liebler) (2011-2013)
+**Languages & Runtimes**
+Go · Python · Rust · Elixir
+
+**Infrastructure & Platform**
+Kubernetes · ArgoCD · Helm · Terraform · Ansible · Proxmox
+
+**Observability**
+Prometheus · Grafana · pyrra
+
+**Data**
+PostgreSQL · Apache Kafka · Redis
+
+**CI/CD**
+GitHub Actions · GitLab CI/CD · Renovate
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [flysimroutes.com](https://flysimroutes.com) | Plan flight simulator routes based on real airline schedules | Elixir, Phoenix, PostGIS, k3s |
+| [pico-proxy](https://github.com/domnikl/pico-proxy) | Lightweight reverse proxy in Go | Go, Docker |
+| [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops) | GitOps tool for Confluent Schema Registry | Kotlin, Avro, Protobuf |
+| [ansible-unifi-network](https://github.com/domnikl/ansible-unifi-network) | Ansible collection for UniFi network management as code | Ansible, Python |
+| Selfhosting | IaC- and GitOps-managed homelab: Proxmox + Terraform + ArgoCD | Proxmox, Terraform, Kubernetes |
+
+---
+
+## Writing
+
+- [Yazio Engineering](https://medium.com/@domnikl) on Medium
+- [Better Programming](https://betterprogramming.pub/diving-into-rusts-smart-pointers-one-at-time-afcaba000f0a) — Rust smart pointers deep-dive
+- [dev.to/domnikl](https://dev.to/domnikl) — personal blog on tech topics
+
+---
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/dominik-liebler-a32655205/) · [Medium](https://medium.com/@domnikl)
