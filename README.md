@@ -11,7 +11,7 @@ Currently working at **[Yazio](https://www.yazio.com)**, building platform tooli
 ## What I work with
 
 **Languages & Runtimes**: 
-Go · Python · Rust · Elixir
+Go · Python · Rust
 
 **Infrastructure & Platform**: 
 Kubernetes · ArgoCD · Helm · Terraform · Ansible · Proxmox
