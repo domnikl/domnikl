@@ -27,18 +27,6 @@ GitHub Actions · GitLab CI/CD · Renovate
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [flysimroutes.com](https://flysimroutes.com) | Plan flight simulator routes based on real airline schedules | Elixir, Phoenix, PostGIS, k3s |
-| [pico-proxy](https://github.com/domnikl/pico-proxy) | Lightweight reverse proxy in Go | Go, Docker |
-| [schema-registry-gitops](https://github.com/domnikl/schema-registry-gitops) | GitOps tool for Confluent Schema Registry | Kotlin, Avro, Protobuf |
-| [ansible-unifi-network](https://github.com/domnikl/ansible-unifi-network) | Ansible collection for UniFi network management as code | Ansible, Python |
-| Selfhosting | IaC- and GitOps-managed homelab: Proxmox + Terraform + ArgoCD | Proxmox, Terraform, Kubernetes |
-
----
-
 ## Writing
 
 - [Yazio Engineering](https://medium.com/@domnikl) on Medium
