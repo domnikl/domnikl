@@ -27,14 +27,6 @@ GitHub Actions · GitLab CI/CD · Renovate
 
 ---
 
-## Writing
-
-- [Yazio Engineering](https://medium.com/@domnikl) on Medium
-- [Better Programming](https://betterprogramming.pub/diving-into-rusts-smart-pointers-one-at-time-afcaba000f0a) — Rust smart pointers deep-dive
-- [dev.to/domnikl](https://dev.to/domnikl) — personal blog on tech topics
-
----
-
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/dominik-liebler-a32655205/) · [Medium](https://medium.com/@domnikl)
